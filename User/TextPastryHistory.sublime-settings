@@ -1,0 +1,31 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "curl"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find curl"
+			},
+			"key": "e68cb329280360d218e4f0036da844c0",
+			"label": "find curl"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": null,
+			"operator": null,
+			"pattern": "curl"
+		},
+		"command": "text_pastry_modify_selection",
+		"text": "find curl"
+	}
+}

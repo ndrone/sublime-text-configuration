@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"Google Spell Check",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JSHint Gutter",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"MarkdownTOC",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"TabsExtra",
+		"Text Pastry",
+		"TypeScript"
+	]
+}
