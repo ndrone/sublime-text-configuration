@@ -1,8 +1,11 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "wide",
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
 	"copy_with_empty_selection": false,
-	"font_face": "Monaco",
+	"font_face": "Jetbrains Mono",
 	"font_size": 14,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignore_packages":
@@ -13,8 +16,8 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"remember_open_files": false,
 	"rulers":
 	[
