@@ -31,6 +31,8 @@
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"TabsExtra",
+		"Terminal",
+		"Terraform",
 		"Text Pastry",
 		"TypeScript"
 	]
